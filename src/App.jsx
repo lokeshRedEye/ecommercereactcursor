@@ -40,7 +40,7 @@ function App() {
     <Router>
       <div className="App">
         <header>
-          <h1><Link to="/">TechShop</Link></h1>
+          <h1><Link to="/">Silo Ecommerce</Link></h1>
           <nav>
             <Link to="/">Home</Link>
             <Link to="/about">About</Link>
